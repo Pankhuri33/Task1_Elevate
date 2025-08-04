@@ -1,0 +1,11 @@
+id,year_of_birth,education,marital_status,income,kidhome,teenhome,dt_customer,gender,country
+2001,1984,PhD,Single,67000,1,0,2013-04-09,female,India
+2002,1995,Graduation,Married,72000,0,1,2014-08-03,male,Usa
+2003,1976,Master,Together,45000,0,0,2012-11-15,female,India
+2004,1980,Graduation,Divorced,58000,1,1,2014-06-29,male,Usa
+2005,1981,Basic,Widow,39000,1,0,2013-09-10,female,Canada
+2006,1989,PhD,Single,61000,0,1,2012-10-21,male,Canada
+2007,1991,Graduation,Married,58000,0,1,2013-01-05,female,India
+2008,1970,Master,Divorced,58000,1,0,2014-03-15,male,Usa
+2009,1982,PhD,Single,60000,1,1,2013-06-01,female,Canada
+2010,1968,Graduation,Married,50000,0,0,2012-12-25,female,India
